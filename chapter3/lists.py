@@ -59,7 +59,7 @@ travel_list = ['New Zealand', 'Iceland', 'Greenland', 'Faroe Island', 'Japan']
 print(f"Original List: {travel_list}")
 print(f"Sorted List: {sorted(travel_list)}")
 print(f"Original List: {travel_list}")
-print(f"Rverse sorted List: {sorted(travel_list, reverse=True)}")
+print(f"Reverse sorted List: {sorted(travel_list, reverse=True)}")
 print(f"Original List: {travel_list}")
 travel_list.sort()
 print(f"Permanently sorted List: {travel_list}")
