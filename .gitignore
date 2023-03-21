@@ -130,3 +130,7 @@ dmypy.json
 
 # output text files
 chapter*/*.txt
+!chapter10/learning_python.txt
+!chapter10/pg70327.txt
+!chapter10/cats.txt
+!chapter10/dogs.txt
