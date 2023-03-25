@@ -134,3 +134,5 @@ chapter*/*.txt
 !chapter10/pg70327.txt
 !chapter10/cats.txt
 !chapter10/dogs.txt
+alien_invasion/.DS_Store
+alien_invasion/**/.DS_Store
