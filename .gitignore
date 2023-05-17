@@ -136,3 +136,5 @@ chapter*/*.txt
 !chapter10/dogs.txt
 alien_invasion/.DS_Store
 alien_invasion/**/.DS_Store
+
+pcc_3e/
